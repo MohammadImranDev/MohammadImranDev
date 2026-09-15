@@ -11,7 +11,7 @@ I build fast, responsive, and user-centric web applications using modern web tec
 * **Frontend Frameworks & Libraries:** React.js, React Router, Redux, Context API, jQuery
 * **UI Frameworks & Styling:** Tailwind CSS, Bootstrap, Material UI
 * **Shopify Development:** Custom Theme Engineering, Liquid Sections, Metafields/Metaobjects, AJAX API, App Integrations
-* **Tools & Utilities:** Git, GitHub, Axios, Formik, Yup, and many more
+* **Tools & Utilities:** Git, GitHub, Axios, Formik, Yup
 
 ---
 
@@ -40,5 +40,6 @@ I build fast, responsive, and user-centric web applications using modern web tec
 
 ### 📫 Connect with Me
 
+* **Phone:** +92 329 4206082
 * **LinkedIn:** [linkedin.com/in/muhammad-imran-ali-175b82342](https://www.linkedin.com/in/muhammad-imran-ali-175b82342)
 * **Email:** mohammademraan890@gmail.com
